@@ -103,11 +103,11 @@ const Twana100= new Discord.Client();
 
 
 
-Twana1.login("");
-Twana2.login("");
-Twana3.login("");
-Twana4.login("");
-Twana5.login("");
+Twana1.login("Nzk4NDk4NDY4OTI2NDU1ODM5.X_2Ggg.7EhgTwVvTCAUaM-T0hfKkEOL5H8");
+Twana2.login("Nzk4NTEyNTgxMzIwMzc2MzMx.X_2HLA.ourDvpEHFL4rNSLgubu7ucYUtUI");
+Twana3.login("Nzk4NTEzMTUyMjQ4NTEyNTQz.X_2Hlg.TPT4xRoTjpHlFuwOrLPFhbkY8jw");
+Twana4.login("Nzk4NTEzNjY5NTYxOTA5Mjk4.X_2IGA.B1c72KA9gmfWEcWDfriGStZSE-Y");
+Twana5.login("Nzk4NTE0OTk3ODU1NTE4NzIw.X_2JfA.qBy74AlABV1AEjpEeywlU_I7_lQ");
 Twana6.login("");
 Twana7.login("");
 Twana8.login("");
